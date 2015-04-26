@@ -359,6 +359,24 @@
   <ItemGroup>
     <WCFMetadata Include="Service References\" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\depositphotos_8282545-Red-button---help.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botao-ajuda.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\004_icone_botao_ajuda.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botao-ajuda.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download2.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
